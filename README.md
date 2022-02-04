@@ -4,7 +4,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=GunKim&fontSize=90&animation=fadeIn)
 
 <!-- <center><img src="https://user-images.githubusercontent.com/89577231/152458099-fb0369cf-97dc-49a4-8924-cb63d4f66e0a.jpeg" width="90%" height="30%"></center> -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwkim92%2Fhit-counter&count_bg=%23B2E18F&title_bg=%234CBEAC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwkim92%2Fhit-counter&count_bg=%239BF99F&title_bg=%2343C2A9&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 
 <h3 align="center"> 
@@ -34,6 +35,4 @@
    <a href="gwkim@pusan.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=gwkim@pusan.ac.kr"/></a>&nbsp    <a href="https://velog.io/@gunkk"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@gunkk"/></a>&nbsp 
 <!--   <a href="gwkim@pusan.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=내링크"/></a>&nbsp                           -->
   </p>
-
-                                                                                               
 
